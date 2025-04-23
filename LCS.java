@@ -74,7 +74,7 @@ public class LCS {
                 j--;
             }
         }
-        
+
         return lcs.reverse().toString();
     }
 }
